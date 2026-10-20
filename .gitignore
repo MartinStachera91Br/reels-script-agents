@@ -1,0 +1,12 @@
+# Generated scripts and private reference material
+content/
+Old Scripts/
+
+# Local tooling
+.claude/settings.local.json
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
